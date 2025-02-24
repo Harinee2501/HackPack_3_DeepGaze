@@ -30,3 +30,5 @@ Missed a ddm lab? – Get access to virtual lab simulations.
 Visualize and Practice – Simulated experiments and interactive exercises using Wokwi API.
 Semester-Based Access: Content tailored per semester, accessible via college email authentication.
 AI Tutor (LLM-Powered): An adaptive learning assistant providing personalized guidance and explanations.
+
+FIGMA LINK: https://www.figma.com/design/AuXDGMRYdDqYecwuZYQFCN/lep?node-id=0-1&t=wrzCWLys8MkH5WKw-1
